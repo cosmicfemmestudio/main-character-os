@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cosmicfemmestudio.github.io/main-character-os/sitemap.xml
